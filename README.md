@@ -1,1 +1,1 @@
-# event-planner
+# coding-project-template
